@@ -13,7 +13,5 @@
  />
           
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/elisonsousa-dev/elisonsousa-dev/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/elisonsousa-dev/elisonsousa-dev/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/elisonsousa-dev/elisonsousa-dev/output/pacman-contribution-graph.svg">
+ ![pacman](https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif)graph.svg">
 </picture>
