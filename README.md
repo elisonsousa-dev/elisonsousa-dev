@@ -13,5 +13,5 @@
  />
           
 <p align="center">
-  <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/5/59/Pac-man.gif">
 </p>
