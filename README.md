@@ -12,6 +12,6 @@
  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" 
  />
           
-<picture>
- ![pacman](https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif)graph.svg">
-</picture>
+<p align="center">
+  <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif">
+</p>
