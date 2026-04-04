@@ -11,28 +11,24 @@
  title = "Java"
  width = "50px"
  style = "padding - right: 10px;"
- src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" 
-   />
-   <img
-   aling = "left"
- title = "Java"
- width = "40px"
- style = "padding - right: 10px;"
- src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="48" 
     />
    <img
-     aling = "left"
- title = "Java"
- width = "60px"
- style = "padding - right: 1px;"
- src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" />
-          
-  
-  
+    />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="48"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="48" style="border-radius: 10px;"/>
+ 
 ## Sobre mim:
 💻 Desenvolvedor Backend Java  
 🚀 Focado em Spring Boot e APIs REST  
-📚 Estudando MySQL e arquitetura backend  
+📚 Estudando MySQL e arquitetura backend
+
+## Observaçao:
+📚 Ainda estou estudando ferramentas que vão agregar na minha carreira de desenvolvedor. Oq estou estudando ainda: MySql, Spring Boot, Apis REST.
+👨‍🎓 Cada dia evoluindo cada vez mais, Para se tornar um desenvolvedor ainda melhor.
+
+
+ ## 
  
 
 
