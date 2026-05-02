@@ -18,6 +18,22 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="48"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="48" style="border-radius: 10px;"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" width="48" style="border-radius: 10px;"/>
+
+ ## 🚨Descrição
+ Desenvolvedor Backend Java em aprendizado constante:
+
+Experiência na construção de APIS REST com Spring Boot, autenticação
+com JWT e integração com MySQL.
+
+🔐 Imprementando controle de acesso (roles ADMIN/USER).
+
+📦 Projetos com validação de dados, segurança e boas práticas de desenvolvimento.
+
+👨‍🎓 Atualmente estudando: Spring Security e arquitetura de software.
+
+💻 Confira meus projetos abaixo 👇
+ 
+ 
       
 
   
